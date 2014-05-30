@@ -2,9 +2,11 @@
 
 
 
-Experiments using CoffeScript in combination with other technologies:
+Experiments using CoffeScript in combination with other technologies.
 
-- JQuery
-- AngularJS
+## Demo
+
+- [JQuery](http://muffo.github.io/coffeescript-experiments/angular.html)
+- [AngularJS](http://muffo.github.io/coffeescript-experiments/jquery.html)
 
 
