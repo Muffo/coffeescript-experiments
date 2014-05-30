@@ -1,4 +1,10 @@
-coffescript-angularjs
-=====================
+# Experiments with CoffeScript
 
-Example web page using CoffeScript and AngularJS
+
+
+Experiments using CoffeScript in combination with other technologies:
+
+- JQuery
+- AngularJS
+
+
